@@ -1,6 +1,11 @@
+/*
+ * Description : Reverse a 4 digit number.
+ * Author      : Mr. Rabbit
+ */
+
 import java.util.*;
 
-public class ReverseNumber {
+public class Program_01 {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter a number: ");
