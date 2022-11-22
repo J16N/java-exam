@@ -1,3 +1,8 @@
+/*
+ * Description : First 10 numbers in Fibonacci Sequence
+ * Author      : Mr. Rabbit
+ */
+
 public class Program_06 {
     public static void main(String[] args) {
         System.out.println("The first 10 numbers in fibonacci sequence are: ");
